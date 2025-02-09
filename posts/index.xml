@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Frosty Offensive Security Blog</title>
-    <link>https://frosty.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on The Frosty Offensive Security Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Feb 2025 00:38:28 +1100</lastBuildDate>
-    <atom:link href="https://frosty.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OSINT - Sock Puppets</title>
-      <link>https://frosty.github.io/posts/mypost/</link>
+      <title>Coming Soon</title>
+      <link>http://localhost:1313/posts/mypost/</link>
       <pubDate>Mon, 10 Feb 2025 00:38:28 +1100</pubDate>
-      <guid>https://frosty.github.io/posts/mypost/</guid>
-      <description>&lt;p&gt;Fake social account to investigate others without being identified&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
